@@ -7,5 +7,5 @@ app.get('/', function(req, res){
 });
 
 app.listen(PORT, function(){
-	console.log('Express is listening on port '+ PORT +'!');
+	console.log('Express ist listening on port '+ PORT +'!');
 })
